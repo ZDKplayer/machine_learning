@@ -1,1 +1,1 @@
-Python implementation of statistical learning method. 
+Python implementation of Statistical Machine Learning. 
